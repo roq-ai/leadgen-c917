@@ -1,0 +1,1702 @@
+[
+  {
+    "social_media_profile": [
+      {
+        "id": "27e570dc-5522-4702-828b-8759fdc76d77",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-13T04:03:05.486Z",
+        "updated_at": "2023-08-13T06:31:22.923Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "74d7944d-9d23-47d0-8745-734bb2aa97bd",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-12T23:44:34.713Z",
+        "updated_at": "2023-08-13T15:13:05.594Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dfe4abf6-e1e9-4062-bb39-f4e7282e630d",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-12T19:18:26.875Z",
+        "updated_at": "2023-08-13T14:38:43.703Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f4aa6bb7-c9a7-4ae4-85de-90ff8952e07b",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T01:43:49.215Z",
+        "updated_at": "2023-08-12T18:48:12.471Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6317d6ea-25e8-4f25-a044-61095499b7f1",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-12T21:56:53.426Z",
+        "updated_at": "2023-08-13T07:58:19.575Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "e73b0af2-2b44-4497-b48f-3d7bf53dd208",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-13T00:15:55.283Z",
+        "updated_at": "2023-08-12T18:56:05.453Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1640364b-a941-4512-ba39-df8832a20233",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-13T09:32:55.590Z",
+        "updated_at": "2023-08-13T05:17:53.758Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0485abbb-d8b9-4dfd-8f8a-c88884fb9102",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T04:16:52.218Z",
+        "updated_at": "2023-08-13T12:14:21.722Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aef93d54-459f-42fc-9089-a10a3a87c044",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-12T18:56:00.749Z",
+        "updated_at": "2023-08-12T18:18:04.307Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f5842a15-6eae-4692-a247-cbb48dcee2b4",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-13T00:35:03.654Z",
+        "updated_at": "2023-08-12T22:16:21.020Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "671d2afd-d838-43a3-b10e-ac5f5e6dde7c",
+        "name": "Summer Sale",
+        "created_at": "2023-08-13T07:35:39.639Z",
+        "updated_at": "2023-08-13T03:32:50.425Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1344cc3f-6d62-4129-8572-541fbeab6e76",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-13T15:42:12.697Z",
+        "updated_at": "2023-08-13T01:02:06.791Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8b2da8d9-8df0-4220-b1f2-291f0f5bb465",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-13T09:36:54.765Z",
+        "updated_at": "2023-08-12T19:08:39.372Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6d3eb1ec-4177-4678-b1a1-c24c99530777",
+        "name": "New Product Launch",
+        "created_at": "2023-08-13T02:09:22.053Z",
+        "updated_at": "2023-08-13T12:07:13.048Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "54b58acf-270c-49d7-8176-9e82d37b22be",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-13T07:09:11.890Z",
+        "updated_at": "2023-08-13T09:38:13.320Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "695eeaec-95cb-4607-b051-6d70f176a5d8",
+        "email": "Kathryn.Williamson12@hotmail.com",
+        "firstName": "Llewellyn",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/806.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e632fa41-c283-4da9-9b49-d867343a1478",
+        "email": "Bradford_Bogisich@hotmail.com",
+        "firstName": "Lucie",
+        "lastName": "Weimann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57298534",
+        "tenantId": null
+      },
+      {
+        "reference": "abb96486-6b4a-404e-a79a-553a2b2da667",
+        "email": "Tyler_Kozey47@gmail.com",
+        "firstName": "Madaline",
+        "lastName": "Flatley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33940427",
+        "tenantId": null
+      },
+      {
+        "reference": "31e22366-07ed-4d90-bcc2-af019f4240fa",
+        "email": "Jamir51@yahoo.com",
+        "firstName": "Orville",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1114.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "13004895-2ee9-47ef-9fa4-02276c943249",
+        "email": "Vesta15@gmail.com",
+        "firstName": "Geovanny",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1154.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "3d022590-f263-4c57-97f9-0f53da7c3c71",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-13T09:34:35.983Z",
+        "updated_at": "2023-08-13T09:38:23.219Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1fc79c8c-fd85-48c7-8ac6-312a68a745f2",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-13T02:26:34.354Z",
+        "updated_at": "2023-08-13T02:42:52.085Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "47a52e3a-f03e-4649-8adc-6d78e6536be4",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-13T14:03:21.090Z",
+        "updated_at": "2023-08-13T12:41:21.036Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8c4fae85-cae0-42b9-81ef-4b840c17705a",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T02:31:16.586Z",
+        "updated_at": "2023-08-12T21:29:56.812Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "02f61927-6b65-4877-8a83-7c25d92a884d",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-12T17:50:56.722Z",
+        "updated_at": "2023-08-13T08:00:43.308Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "bad2ea36-7b26-4c82-8016-22e1a97805aa",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-12T23:16:24.910Z",
+        "updated_at": "2023-08-13T02:50:44.217Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "29c6788c-7cf3-4d88-84f8-71c4a8389e96",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-13T02:09:08.823Z",
+        "updated_at": "2023-08-13T06:16:03.702Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "04322e13-64e8-4a9a-abb9-abc5828d75c5",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T15:08:19.740Z",
+        "updated_at": "2023-08-13T05:41:56.098Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6efc9929-ec44-441a-b12d-69fc66c9d8de",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-13T06:10:51.691Z",
+        "updated_at": "2023-08-13T03:21:58.770Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b63ba9fc-954d-4e12-a7f4-806a24f72299",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-12T18:38:51.419Z",
+        "updated_at": "2023-08-12T19:17:21.331Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "e10757e0-004e-46ac-b8b6-f0b877a5e9b4",
+        "name": "Summer Sale",
+        "created_at": "2023-08-13T14:09:27.169Z",
+        "updated_at": "2023-08-13T13:46:19.705Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "47df63f6-bcf2-4f9b-9f16-784f6a18516c",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-13T14:30:56.082Z",
+        "updated_at": "2023-08-13T12:52:47.668Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "68869c0e-0394-4433-9db8-cfd57587ee68",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-13T12:14:42.691Z",
+        "updated_at": "2023-08-12T19:54:52.937Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9e61b304-0dde-49b2-8311-4d11f8ff7d10",
+        "name": "New Product Launch",
+        "created_at": "2023-08-13T04:40:18.739Z",
+        "updated_at": "2023-08-12T17:57:15.474Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "147d55b8-e146-4743-bff2-66ed0364ef00",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-12T22:48:59.150Z",
+        "updated_at": "2023-08-12T20:36:40.949Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5c8912d5-d116-4f6d-8758-ff16ce27590e",
+        "email": "Magdalena_Emard90@gmail.com",
+        "firstName": "Octavia",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/232.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c7d52278-ecef-471b-9a38-7ca084f4e093",
+        "email": "Lela.Miller98@yahoo.com",
+        "firstName": "Luis",
+        "lastName": "Carroll-Wiegand",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67926039",
+        "tenantId": null
+      },
+      {
+        "reference": "4ad8c1f2-c9c0-464f-aa08-d0a7f93eca62",
+        "email": "Dillan.Stanton20@gmail.com",
+        "firstName": "Vernie",
+        "lastName": "Kautzer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/856.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8e561725-d4cd-4dfc-92d1-fca39c0448db",
+        "email": "Leanna.Robel60@yahoo.com",
+        "firstName": "Callie",
+        "lastName": "O'Conner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35697043",
+        "tenantId": null
+      },
+      {
+        "reference": "98ba5e75-f9e4-44c7-b3d0-6beea77bfc1a",
+        "email": "Alysa23@yahoo.com",
+        "firstName": "Niko",
+        "lastName": "Rau",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10342428",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "db1be619-91ea-4402-a6a2-a400d8a297e6",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-13T11:19:26.929Z",
+        "updated_at": "2023-08-12T22:26:48.060Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b6d134de-e45b-403e-b79a-478f43b38f95",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-13T03:24:42.767Z",
+        "updated_at": "2023-08-13T06:07:19.752Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "822ffc59-4c45-4b36-9029-c32969e0595e",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-12T19:08:09.157Z",
+        "updated_at": "2023-08-13T08:49:58.828Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "993a66c0-416a-4a88-a22b-1f5897338afa",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T10:41:07.118Z",
+        "updated_at": "2023-08-13T07:43:21.746Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7a5f6f38-7c16-4eb5-b277-5ed9b2ae4e26",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-12T17:49:00.396Z",
+        "updated_at": "2023-08-13T00:54:14.795Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "921548bd-2ff5-491e-89b6-9e067046d96d",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-12T23:48:41.220Z",
+        "updated_at": "2023-08-12T18:58:05.934Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "87cb0d33-536b-4d00-b2a5-3830b2c24af7",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-13T09:59:23.150Z",
+        "updated_at": "2023-08-12T21:27:32.251Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bf78e0b4-2656-45f2-a281-f821b4bb46af",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T12:25:20.869Z",
+        "updated_at": "2023-08-13T11:01:44.633Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "984c58a7-8bce-43f0-8405-df335dec65b8",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-12T20:50:06.007Z",
+        "updated_at": "2023-08-13T00:44:45.247Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a1b25631-9d20-47b6-849d-e70bf00b4da7",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-12T23:52:57.161Z",
+        "updated_at": "2023-08-13T02:06:03.679Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "bf399089-5a70-4a23-be89-3e1787ffb690",
+        "name": "Summer Sale",
+        "created_at": "2023-08-13T06:55:11.933Z",
+        "updated_at": "2023-08-13T07:53:41.902Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9bc41f3c-2fa1-4ac9-9e4b-05b52a58efef",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-12T17:05:50.991Z",
+        "updated_at": "2023-08-12T20:19:59.340Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0973be08-b7cc-4b41-97c9-0033c5c8f745",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-13T15:54:41.770Z",
+        "updated_at": "2023-08-13T16:12:20.110Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a927e3d7-5303-48c5-91e7-2754889d446a",
+        "name": "New Product Launch",
+        "created_at": "2023-08-12T23:53:05.880Z",
+        "updated_at": "2023-08-12T18:50:45.080Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fd26754b-8019-4dfd-8fe7-82fec88b5acc",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-12T18:56:30.841Z",
+        "updated_at": "2023-08-13T14:19:52.369Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f24f6684-8623-485b-858b-66acb74fc3f9",
+        "email": "Reagan_Blick@yahoo.com",
+        "firstName": "Rickie",
+        "lastName": "Pfannerstill",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/666.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "76d70be2-0573-4221-bbd7-30ebfb6ebaf9",
+        "email": "Otha_Heidenreich13@hotmail.com",
+        "firstName": "Lysanne",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/841.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "73d09882-f0a8-48e1-aa46-d8966eb0f2f4",
+        "email": "Brisa55@hotmail.com",
+        "firstName": "Ryder",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90744504",
+        "tenantId": null
+      },
+      {
+        "reference": "2f60c2ee-d5f8-4fc5-ba53-0165e28d0565",
+        "email": "Darwin.Marks69@gmail.com",
+        "firstName": "Jaunita",
+        "lastName": "Rodriguez",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55793703",
+        "tenantId": null
+      },
+      {
+        "reference": "3b1ff23b-fd46-490b-8ade-309594d4f3e9",
+        "email": "Marian_Gottlieb2@gmail.com",
+        "firstName": "Lisa",
+        "lastName": "Kutch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/449.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "7030ef32-e5c2-4806-94d8-8d452e31e372",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-13T13:46:52.478Z",
+        "updated_at": "2023-08-13T14:03:57.596Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a77202fd-44a5-44a1-989e-46df9764e4e2",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-13T16:29:44.326Z",
+        "updated_at": "2023-08-13T14:55:03.131Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "570a352d-55e7-4bea-bf9a-cfdfe683f761",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-12T20:13:09.743Z",
+        "updated_at": "2023-08-13T07:41:24.219Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7c706a96-4529-4c2a-bd8a-983e656215b1",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T12:46:37.705Z",
+        "updated_at": "2023-08-13T15:47:02.888Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b755ed0c-8e92-4561-835e-9895652f611b",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-13T01:36:30.783Z",
+        "updated_at": "2023-08-13T10:59:26.102Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "0e31e4c9-03ab-4496-9932-fcf0995d4274",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-13T06:46:10.977Z",
+        "updated_at": "2023-08-13T08:59:35.163Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3fe79c54-9ef7-4d11-9281-1f9dda6be329",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-13T15:54:15.612Z",
+        "updated_at": "2023-08-12T22:44:35.150Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "51e236b8-c77f-41a8-b422-bcdead6e73e3",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T03:13:13.515Z",
+        "updated_at": "2023-08-12T20:17:23.936Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "200cf486-93dc-446e-9a44-66fd5784b5bc",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-13T03:20:04.069Z",
+        "updated_at": "2023-08-13T12:28:58.128Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bd538832-95ee-4ac2-b172-b60e71e4d043",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-12T21:34:50.292Z",
+        "updated_at": "2023-08-13T12:12:04.205Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "5a45fefb-fd7c-4d12-867a-36795237dca7",
+        "name": "Summer Sale",
+        "created_at": "2023-08-12T21:53:53.840Z",
+        "updated_at": "2023-08-13T06:30:33.562Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "36ad63c4-6dc1-4382-b88a-c4b19c2bf177",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-13T16:04:11.484Z",
+        "updated_at": "2023-08-12T19:24:58.454Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6b35d97c-9e46-4c9b-af38-0c904a7b19da",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-13T07:20:17.926Z",
+        "updated_at": "2023-08-12T21:04:58.911Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "807adea7-23ca-43b5-8095-b383ddd8636a",
+        "name": "New Product Launch",
+        "created_at": "2023-08-12T23:31:29.608Z",
+        "updated_at": "2023-08-13T08:40:54.335Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9b0c5375-a905-42fc-9dce-acb4f76274de",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-12T21:48:15.195Z",
+        "updated_at": "2023-08-13T11:12:01.835Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3ca3238b-f624-42f4-a6cb-b05c7d1366a0",
+        "email": "Jaylin.Rippin@gmail.com",
+        "firstName": "Keyshawn",
+        "lastName": "Jacobs",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99509862",
+        "tenantId": null
+      },
+      {
+        "reference": "3d9a5efb-3218-43f8-8eb0-f92440c45495",
+        "email": "Meagan98@yahoo.com",
+        "firstName": "Andreane",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52636678",
+        "tenantId": null
+      },
+      {
+        "reference": "6b9653b9-e510-4a25-a541-84af244e0906",
+        "email": "Berta.Kessler@yahoo.com",
+        "firstName": "Brisa",
+        "lastName": "Schulist",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79768468",
+        "tenantId": null
+      },
+      {
+        "reference": "b075abe4-b407-4477-8018-69cdebd0243d",
+        "email": "Antwan85@gmail.com",
+        "firstName": "Olen",
+        "lastName": "Kautzer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68363857",
+        "tenantId": null
+      },
+      {
+        "reference": "9cbb39e7-ead5-4f88-991a-eeeb17d7c13b",
+        "email": "Caden.Walker58@yahoo.com",
+        "firstName": "Rubye",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "d15ddf4f-7be6-40f6-8756-d8c9fdc4afaf",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-12T21:13:55.975Z",
+        "updated_at": "2023-08-13T10:10:59.024Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "664d8d5c-ed8c-4aac-bc33-94a8e9513188",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-12T19:43:22.315Z",
+        "updated_at": "2023-08-13T10:26:37.975Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8e5600bb-7e9d-4e61-bf98-2c07aa27687a",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-13T01:14:51.813Z",
+        "updated_at": "2023-08-13T11:10:22.491Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8b47c973-67fa-4e05-a5c7-f767ea6d3c1b",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T08:27:17.971Z",
+        "updated_at": "2023-08-13T11:42:44.021Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3ee9b666-a34c-47e6-be83-e8ce54e7e277",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-12T19:43:06.599Z",
+        "updated_at": "2023-08-13T15:48:20.218Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "9a03ca28-a16b-477e-87ff-c75038dabaf9",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-13T14:57:44.306Z",
+        "updated_at": "2023-08-13T13:42:01.741Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e507e819-d1db-4a2c-a71b-0adbe31f77cf",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-13T00:10:37.133Z",
+        "updated_at": "2023-08-13T16:38:23.837Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c8be1a9d-2f1a-4635-b8f9-b9c404d86fd1",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T12:26:48.257Z",
+        "updated_at": "2023-08-13T12:32:46.350Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8afdfed2-a96d-46c5-9a4b-edb6499bd220",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-13T15:10:34.887Z",
+        "updated_at": "2023-08-12T21:50:59.955Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9ff7d534-c515-46c0-abe9-d7f5cdecdac2",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-12T22:49:14.440Z",
+        "updated_at": "2023-08-13T11:13:21.989Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "dea896c4-79a7-4803-b688-7496efd52ae3",
+        "name": "Summer Sale",
+        "created_at": "2023-08-13T04:46:39.549Z",
+        "updated_at": "2023-08-12T23:47:51.668Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c99a4d07-7b91-4d4f-8a4c-a1bb29876a92",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-13T15:09:10.560Z",
+        "updated_at": "2023-08-12T18:36:38.515Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "04df05cf-b599-4efb-adbe-9d26b66e3970",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-12T22:01:27.278Z",
+        "updated_at": "2023-08-13T13:54:36.256Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1272f004-452b-410c-8db3-ad62667910d9",
+        "name": "New Product Launch",
+        "created_at": "2023-08-13T11:17:34.150Z",
+        "updated_at": "2023-08-12T17:37:14.859Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "690f346a-2c24-4969-843b-7c42203d8b64",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-12T17:22:09.404Z",
+        "updated_at": "2023-08-12T21:58:14.921Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "088771ab-4277-4347-a29e-e9a85ec86184",
+        "email": "Antone_Considine@yahoo.com",
+        "firstName": "Viva",
+        "lastName": "Pfannerstill",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71385297",
+        "tenantId": null
+      },
+      {
+        "reference": "95ca5b88-1fd6-48ea-b5df-da23b3e71ccf",
+        "email": "Lucas.McClure46@yahoo.com",
+        "firstName": "Katharina",
+        "lastName": "Leuschke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/811.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9c59c90f-40ff-48b4-893c-aaac593bd6e8",
+        "email": "Alanna.Rowe@gmail.com",
+        "firstName": "Ahmed",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/92.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c64bfb40-2b99-472a-b658-8e2e69bee6ca",
+        "email": "Margarette.Schimmel16@yahoo.com",
+        "firstName": "Carolina",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83411213",
+        "tenantId": null
+      },
+      {
+        "reference": "0a764a4e-61af-4c90-848d-e62bfed8a2a9",
+        "email": "Tania_Gottlieb67@yahoo.com",
+        "firstName": "Elvera",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59489000",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "9f09824f-1e63-418b-a9d9-63fcdbf76447",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-13T13:08:08.904Z",
+        "updated_at": "2023-08-12T18:17:17.603Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e58c3ac3-7faf-4506-82f9-78229f5ff57a",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-12T22:54:34.585Z",
+        "updated_at": "2023-08-13T05:38:39.635Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "512254c4-f145-4bbb-b677-ef59efcbef8a",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-13T06:54:21.323Z",
+        "updated_at": "2023-08-13T16:49:11.908Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f78894f8-f481-46df-a7c0-b28d51cd0546",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-12T22:55:06.174Z",
+        "updated_at": "2023-08-13T09:11:12.066Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dffb0b0b-6aeb-452b-af09-2c2284fa1676",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-13T02:09:44.936Z",
+        "updated_at": "2023-08-13T04:35:49.370Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "c985d5c8-06aa-425a-9650-5fe7c58f3771",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-13T01:57:52.462Z",
+        "updated_at": "2023-08-13T01:35:25.457Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5f6f5161-d11d-4dd5-a94f-03029d68f7e5",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-12T19:53:58.946Z",
+        "updated_at": "2023-08-12T22:08:31.586Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c7cdf635-eb38-4901-94ae-c4c2ec338213",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-12T20:02:09.583Z",
+        "updated_at": "2023-08-13T15:21:59.436Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a8dccc7d-ecc4-4a35-a965-0ea24e2a8474",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-12T22:50:11.799Z",
+        "updated_at": "2023-08-12T18:48:11.222Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0d0d816b-8982-4aec-b836-93a9b53d75e9",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-12T18:21:33.455Z",
+        "updated_at": "2023-08-12T18:22:35.764Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "052ed52b-0f2b-4759-b71b-f5877ebbb369",
+        "name": "Summer Sale",
+        "created_at": "2023-08-12T20:17:09.901Z",
+        "updated_at": "2023-08-13T16:38:10.986Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3fd8a054-4765-40c8-b797-c196aee5e00b",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-13T10:09:25.951Z",
+        "updated_at": "2023-08-13T15:45:40.861Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a9ff9284-6fa5-4924-ac13-5de1fe0e75c4",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-12T22:43:23.917Z",
+        "updated_at": "2023-08-12T21:37:04.694Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "57662b83-e24e-4245-8031-5e28df7fafd2",
+        "name": "New Product Launch",
+        "created_at": "2023-08-13T11:49:12.652Z",
+        "updated_at": "2023-08-12T17:56:16.462Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f76303db-1937-4b80-9bab-4c3b69fdea57",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-12T22:57:01.603Z",
+        "updated_at": "2023-08-13T05:05:17.328Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4eea83bf-a5c5-4bb1-870c-ef4bc7cf9cce",
+        "email": "Jeffrey95@gmail.com",
+        "firstName": "Kory",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34151849",
+        "tenantId": null
+      },
+      {
+        "reference": "1acaa84c-313f-428c-9707-e1ba0c082df2",
+        "email": "Zaria.Labadie@yahoo.com",
+        "firstName": "Eldon",
+        "lastName": "Watsica",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71891871",
+        "tenantId": null
+      },
+      {
+        "reference": "3b4b3b69-3726-4c39-b8c5-776ab2515ff2",
+        "email": "Florian_Ziemann76@yahoo.com",
+        "firstName": "Lexie",
+        "lastName": "Nolan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/270.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9382c6a8-96eb-441e-890c-91e68333122e",
+        "email": "Hilda4@hotmail.com",
+        "firstName": "Angelo",
+        "lastName": "Raynor",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/691.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f94c7497-fc1c-4a63-8671-1f378eb9220a",
+        "email": "Elroy_Wehner@hotmail.com",
+        "firstName": "Hester",
+        "lastName": "Monahan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16265967",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "82925cac-cf20-46a1-8936-f26f11343c6e",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-12T21:41:40.974Z",
+        "updated_at": "2023-08-13T09:36:44.943Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "796cd616-f8ee-4da0-a608-f59de9e3aaa1",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-13T11:02:05.528Z",
+        "updated_at": "2023-08-13T10:51:32.355Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0c1544e3-e9ff-4381-88ae-41a334223d43",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-13T13:34:58.889Z",
+        "updated_at": "2023-08-12T22:20:55.140Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a30c0c51-f193-496c-b4fa-b1347fdd2a42",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T02:08:17.510Z",
+        "updated_at": "2023-08-13T16:34:17.105Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7e490748-e25d-4945-96ea-3b75e85c24cb",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-13T01:28:55.370Z",
+        "updated_at": "2023-08-12T17:28:03.765Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "b955deb4-afdf-4e76-bd5f-016b96cfa2fa",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-13T12:46:37.599Z",
+        "updated_at": "2023-08-13T07:02:39.063Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d9b9444d-efb1-4843-b64f-2faaffea2cfb",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-13T04:31:59.657Z",
+        "updated_at": "2023-08-13T07:03:50.214Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b1cc98ce-d9fe-4865-a1f7-2114ef79e964",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T05:41:11.779Z",
+        "updated_at": "2023-08-13T06:41:46.199Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "76867bd9-41ef-4d8b-b5fc-09ef68be1059",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-13T13:27:38.199Z",
+        "updated_at": "2023-08-13T01:58:47.237Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f079fb01-90e8-48db-b41f-2f00ac72da1d",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-12T22:39:36.887Z",
+        "updated_at": "2023-08-13T09:39:24.723Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "87ecf162-9c80-4169-bd26-e3e86cee4019",
+        "name": "Summer Sale",
+        "created_at": "2023-08-13T13:47:21.265Z",
+        "updated_at": "2023-08-12T17:49:26.099Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fe117638-67fa-4ef3-87a5-10f98e8f0764",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-13T07:45:46.977Z",
+        "updated_at": "2023-08-13T01:40:41.866Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3160d764-ceaa-4cf1-bf9a-e1869c9f7314",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-13T14:01:37.633Z",
+        "updated_at": "2023-08-12T20:32:31.813Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e7951fe6-3d46-429e-8704-c490c3ea0b83",
+        "name": "New Product Launch",
+        "created_at": "2023-08-13T06:15:25.215Z",
+        "updated_at": "2023-08-13T10:30:36.371Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b83ada0f-be4c-403f-b06d-a741ec7253f0",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-13T05:06:34.251Z",
+        "updated_at": "2023-08-13T03:58:10.803Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "61832b4e-fc98-43bc-a62c-7438b6900b39",
+        "email": "Rebekah7@gmail.com",
+        "firstName": "Lamar",
+        "lastName": "Barrows",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/745.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e12a94cd-ef04-4756-bf42-d50f0ec8fdb9",
+        "email": "Garth_Miller86@gmail.com",
+        "firstName": "Raphael",
+        "lastName": "VonRueden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/568.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "557bc7f2-ac8b-491c-87e3-23d3a4607cd9",
+        "email": "Gonzalo25@gmail.com",
+        "firstName": "Ernesto",
+        "lastName": "Dickens-Green",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1169.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "087044c5-714a-4790-815b-b3ccf8704198",
+        "email": "Kenneth_Heller15@hotmail.com",
+        "firstName": "Maximilian",
+        "lastName": "Steuber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91797708",
+        "tenantId": null
+      },
+      {
+        "reference": "7c72c462-3edf-4cc4-b332-0f3622f038c7",
+        "email": "Noemi_Powlowski@yahoo.com",
+        "firstName": "Lottie",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/214.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "1cf9c856-3f9a-4766-947f-df353fae8955",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-13T05:08:58.922Z",
+        "updated_at": "2023-08-13T09:45:23.460Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0dce9ca1-737c-4865-8dd5-43fb27a748b0",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-12T21:39:31.458Z",
+        "updated_at": "2023-08-12T17:54:58.000Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ab04e175-a83d-4a54-bc30-f39ee1e3c150",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-12T19:46:29.482Z",
+        "updated_at": "2023-08-13T08:58:59.959Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5fcec904-ec3f-4f96-9e3e-e85d7c05a545",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T06:32:30.431Z",
+        "updated_at": "2023-08-13T13:10:21.938Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b4178529-1873-4119-a78e-17bad2815b70",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-13T13:10:54.701Z",
+        "updated_at": "2023-08-12T20:39:38.844Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "2250121d-8c20-4eb6-822e-fec63972515c",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-13T15:16:39.073Z",
+        "updated_at": "2023-08-12T21:10:57.414Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9789cd63-87c8-4ec6-a743-e1d1c5bdb036",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-12T22:11:20.067Z",
+        "updated_at": "2023-08-12T20:41:56.593Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9e9f0685-f305-4f5c-a45c-cf5bb192ebe2",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T00:10:14.895Z",
+        "updated_at": "2023-08-12T17:57:33.249Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4d3fb47d-64e1-4e9f-b556-ad95bbaedb1a",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-12T23:39:42.430Z",
+        "updated_at": "2023-08-13T08:03:57.257Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f54c77b5-7ad0-4e78-a5a9-0281d0f448cb",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-13T08:27:00.490Z",
+        "updated_at": "2023-08-12T21:15:55.041Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "0ac4cae9-7ea2-488e-a173-80f4afc87e52",
+        "name": "Summer Sale",
+        "created_at": "2023-08-13T02:09:18.813Z",
+        "updated_at": "2023-08-12T22:45:02.802Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "46101477-d48f-4056-b05f-f2c36f802aaa",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-13T11:15:18.003Z",
+        "updated_at": "2023-08-13T06:02:43.046Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "02e147b9-5a2f-4ca2-9711-08ba1989d2fe",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-12T23:29:16.626Z",
+        "updated_at": "2023-08-13T03:19:28.869Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cd4853ff-f4fd-4360-8199-12b316e14d33",
+        "name": "New Product Launch",
+        "created_at": "2023-08-13T11:42:16.322Z",
+        "updated_at": "2023-08-12T21:40:00.584Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "95106c65-c227-46a2-bf28-33e8cef6b54c",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-13T15:35:21.560Z",
+        "updated_at": "2023-08-13T04:02:50.460Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "504021b3-af3e-44d1-aec3-7717de710007",
+        "email": "Heaven.Senger79@gmail.com",
+        "firstName": "Jamil",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71235279",
+        "tenantId": null
+      },
+      {
+        "reference": "7c34e948-7653-4c3f-8e81-39c4315f1812",
+        "email": "Reed.Koch@yahoo.com",
+        "firstName": "Raul",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/737.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "49f44508-5fad-47ef-876c-6e3e8e0ccff1",
+        "email": "Ebba.Quigley@yahoo.com",
+        "firstName": "Kameron",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11750599",
+        "tenantId": null
+      },
+      {
+        "reference": "dc909135-e6a4-463e-9579-cf2af8152ff6",
+        "email": "Aracely12@yahoo.com",
+        "firstName": "Letitia",
+        "lastName": "Boyer-Ortiz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/853.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "eee9008e-2ae3-4e86-ad48-3fe874e6f3ad",
+        "email": "Meta78@gmail.com",
+        "firstName": "Lindsey",
+        "lastName": "Purdy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/309.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "625fdf18-921d-440e-961d-46fe56b7ada9",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-12T22:56:07.167Z",
+        "updated_at": "2023-08-13T05:35:15.116Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8d2fb9b9-e4ed-45f4-9db0-021435f1ca60",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-13T12:07:34.897Z",
+        "updated_at": "2023-08-12T19:59:26.570Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1f9664aa-2569-4a75-8373-272283d1f8fd",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-13T09:46:00.734Z",
+        "updated_at": "2023-08-13T10:21:49.324Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9ebf9537-f958-48e1-a176-0b5f7a39dc95",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T13:12:13.449Z",
+        "updated_at": "2023-08-13T12:41:58.004Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f0b15927-9902-498b-bdbd-8c9fa7641e43",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-13T10:54:09.407Z",
+        "updated_at": "2023-08-13T02:54:45.829Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "bc44d162-5586-43b6-828b-a2f0f32b9d76",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-13T14:40:15.139Z",
+        "updated_at": "2023-08-12T20:41:30.679Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "15b37e1d-c5a3-412d-bd83-4ed42b3691ba",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-13T00:53:59.070Z",
+        "updated_at": "2023-08-13T12:52:21.143Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3ff04edd-f9d1-4852-9279-309bf2cb34ef",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T12:31:06.785Z",
+        "updated_at": "2023-08-13T00:23:03.685Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0657146d-c92a-4f77-90c9-28c164a8eaf9",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-12T23:19:10.867Z",
+        "updated_at": "2023-08-13T02:46:36.392Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f5f64297-41a1-4ad2-b33b-3e4e52841c31",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-13T01:08:01.993Z",
+        "updated_at": "2023-08-13T15:27:40.092Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "077f527d-cd38-4f13-8ef3-595cc487daae",
+        "name": "Summer Sale",
+        "created_at": "2023-08-12T19:20:47.927Z",
+        "updated_at": "2023-08-13T13:47:02.087Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2a8c3d4c-9ea7-49c5-897d-0eddb4f95615",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-13T09:59:55.293Z",
+        "updated_at": "2023-08-12T19:42:14.701Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cff95ba1-4d94-4a4a-a1ca-2208a50b699f",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-13T14:25:46.222Z",
+        "updated_at": "2023-08-12T19:42:23.998Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "41135c46-a7cb-4b92-a034-9eb7cdaa8f76",
+        "name": "New Product Launch",
+        "created_at": "2023-08-13T02:43:14.295Z",
+        "updated_at": "2023-08-13T16:45:27.358Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a9926779-57e0-4ba1-870c-58a346a1dd22",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-13T16:31:41.650Z",
+        "updated_at": "2023-08-12T17:36:35.598Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fdcb0fa7-df0f-4344-966b-c0a9274acf32",
+        "email": "Ericka_Boehm43@hotmail.com",
+        "firstName": "Lisa",
+        "lastName": "Thiel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64122252",
+        "tenantId": null
+      },
+      {
+        "reference": "c151bf2b-5be7-41cb-991c-e8e5283749e2",
+        "email": "Gregg_Dickens@yahoo.com",
+        "firstName": "Berniece",
+        "lastName": "Ondricka",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2595168",
+        "tenantId": null
+      },
+      {
+        "reference": "dbb0afd4-6602-480b-9155-d720b663c906",
+        "email": "Lewis.Hegmann49@yahoo.com",
+        "firstName": "Francesca",
+        "lastName": "Wyman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/772.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6d023309-3e6e-43b3-92a6-86233d7f85b5",
+        "email": "Alta_Renner35@gmail.com",
+        "firstName": "Lula",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53528894",
+        "tenantId": null
+      },
+      {
+        "reference": "ded24965-3be3-46bb-b0e5-811ce083fa89",
+        "email": "Pedro_Braun4@yahoo.com",
+        "firstName": "Concepcion",
+        "lastName": "Kunze",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1089.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "social_media_profile": [
+      {
+        "id": "61b66de6-d244-4191-8b8c-915c3db547ae",
+        "name": "@john.doe",
+        "platform": "Twitter",
+        "created_at": "2023-08-13T08:31:44.231Z",
+        "updated_at": "2023-08-13T11:14:53.901Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "037d777e-cb4f-4c7d-b2eb-0e91a02608e2",
+        "name": "@jane.smith",
+        "platform": "Instagram",
+        "created_at": "2023-08-12T17:04:35.702Z",
+        "updated_at": "2023-08-13T06:30:00.757Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "daea9ef0-6b59-4ada-a4d3-f52ddcd6b44c",
+        "name": "@michael.brown",
+        "platform": "LinkedIn",
+        "created_at": "2023-08-12T18:04:13.576Z",
+        "updated_at": "2023-08-12T19:10:12.718Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bb235ac9-21c7-4f90-a414-60fd1afaa555",
+        "name": "@sarah.jones",
+        "platform": "Facebook",
+        "created_at": "2023-08-13T06:09:16.464Z",
+        "updated_at": "2023-08-13T16:39:47.488Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7226b73f-b58b-433b-a764-fa9e05f3d12d",
+        "name": "@david.wilson",
+        "platform": "YouTube",
+        "created_at": "2023-08-13T10:43:51.299Z",
+        "updated_at": "2023-08-13T08:52:57.712Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "8be2efa0-f543-4804-a5b7-8c16fdb8c003",
+        "name": "ABC Company",
+        "contact_info": "contact@abccompany.com",
+        "created_at": "2023-08-13T13:49:19.991Z",
+        "updated_at": "2023-08-13T06:55:54.232Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f2de50b3-5196-4a7d-ae47-225f2102354f",
+        "name": "XYZ Enterprises",
+        "contact_info": "info@xyzenterprises.com",
+        "created_at": "2023-08-12T21:45:25.928Z",
+        "updated_at": "2023-08-13T16:03:50.833Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ded62e3b-6a43-406f-b68b-694b8d6400c7",
+        "name": "Tech Solutions",
+        "contact_info": "support@techsolutions.com",
+        "created_at": "2023-08-13T16:25:26.151Z",
+        "updated_at": "2023-08-12T22:26:58.523Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "76f23fa6-60ee-4f1a-9bd0-85c8affbdcb9",
+        "name": "Global Services",
+        "contact_info": "sales@globalservices.com",
+        "created_at": "2023-08-13T04:33:04.457Z",
+        "updated_at": "2023-08-13T00:50:14.296Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "eeebf315-15b2-4487-bf2a-8fec8d5d63cf",
+        "name": "Innovative Startups",
+        "contact_info": "info@innovativestartups.com",
+        "created_at": "2023-08-13T06:01:39.155Z",
+        "updated_at": "2023-08-13T06:15:24.502Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "1b0e7d76-2561-410a-a557-d45a0fd93a39",
+        "name": "Summer Sale",
+        "created_at": "2023-08-13T01:00:56.406Z",
+        "updated_at": "2023-08-13T04:08:36.178Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "eb167703-efd9-44c9-8e77-a2b103c02969",
+        "name": "Holiday Promotion",
+        "created_at": "2023-08-12T17:34:08.825Z",
+        "updated_at": "2023-08-13T07:13:35.359Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1b3637da-2a2e-4a9a-a688-809386bdf497",
+        "name": "Back-to-School Campaign",
+        "created_at": "2023-08-13T04:38:15.965Z",
+        "updated_at": "2023-08-13T08:32:13.610Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9f630652-508c-49fa-b742-923c347f4e7f",
+        "name": "New Product Launch",
+        "created_at": "2023-08-13T05:14:48.700Z",
+        "updated_at": "2023-08-13T16:27:36.514Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1904c528-5dc7-422d-8d4e-d36fb1f293e1",
+        "name": "Customer Appreciation Event",
+        "created_at": "2023-08-13T08:42:11.695Z",
+        "updated_at": "2023-08-12T18:56:41.254Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1f868675-d639-4476-ac20-a28de95ce04c",
+        "email": "Vita99@hotmail.com",
+        "firstName": "Maymie",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/966.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ecb31f50-640c-4970-af21-a272f1b7062f",
+        "email": "Wilhelmine72@gmail.com",
+        "firstName": "Lowell",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/317.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d9a43155-99b6-48f8-b306-87e6c1c7604a",
+        "email": "Quinten_Casper@gmail.com",
+        "firstName": "Ford",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/801.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "afb0ad2d-0217-422e-ab1f-95375467c00f",
+        "email": "Maudie.Runte@gmail.com",
+        "firstName": "Cristian",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/645.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3d11aed3-85d4-47ca-b992-fd7280b01cb9",
+        "email": "Ferne_Bins21@hotmail.com",
+        "firstName": "Roma",
+        "lastName": "Langosh-Block",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98082761",
+        "tenantId": null
+      }
+    ]
+  }
+]
